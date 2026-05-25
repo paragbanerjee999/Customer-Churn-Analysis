@@ -13,7 +13,7 @@ predict customer churn with 79.2% accuracy.
 - Jupyter Notebook
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard_page1.png)
+![Dashboard](Dashboard-Overview-Analysis.jpg)
 
 ## 📈 Key Results
 - Model Accuracy: 79.2%
@@ -26,7 +26,10 @@ predict customer churn with 79.2% accuracy.
 ## 🗂 Project Structure
 - churn_analysis.ipynb — Complete Python analysis
 - churn_clean.xlsx — Cleaned dataset (7,032 rows)
-- dashboard_page1.png — Power BI Dashboard screenshot
+- Dashboard-Overview-Analysis.jpg — Power BI Dashboard screenshot (Overall)
+- Month-To-Month-Dashboard-Overview-Analysis.jpg — Power BI Dashboard screenshot (Monthly)
+- One-Year-Dashboard-Overview-Analysis.jpg — Power BI Dashboard screenshot (One Year)
+- Two-Year-Dashboard-Overview-Analysis.jpg — Power BI Dashboard screenshot (Two Year)
 - churn_analysis.html — Notebook in HTML format
 
 ## 💡 Key Insights
